@@ -1,0 +1,21 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# NetBeans project files
+nbproject/private/
+build/
+dist/
+
+# Maven/Gradle/Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
